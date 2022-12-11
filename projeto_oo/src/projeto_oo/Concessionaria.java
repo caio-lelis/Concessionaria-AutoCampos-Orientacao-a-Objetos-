@@ -5,9 +5,19 @@ public class Concessionaria {
 	private String endereco;
 	private String cnpj;
 	private String telefone;
-	
-	public Concessionaria(String nome, String endereco, String cnpj, String telefone) {
-		}
+
+	public Concessionaria(String nomeLoja, String endereco, String cnpj, String telefone) {
+
+		this.nomeLoja = nomeLoja;
+		this.cnpj = cnpj;
+		this.endereco = endereco;
+		this.telefone = telefone;
+	}
+
+	@Override
+	public String toString() {
+		return "Loja:" + nomeLoja + "|CNPJ: " + cnpj + "|Endereço: " + endereco + "|Telefone:" + telefone;
+	}
 
 	public String getNome() {
 		return nomeLoja;

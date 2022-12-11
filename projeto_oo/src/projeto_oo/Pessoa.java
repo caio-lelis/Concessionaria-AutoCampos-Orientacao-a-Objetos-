@@ -5,8 +5,7 @@ public abstract class Pessoa {
 	protected String cpf;
 	protected String endereco;
 	protected String telefone;
-	
-	
+
 	public String getTelefone() {
 		return telefone;
 	}
