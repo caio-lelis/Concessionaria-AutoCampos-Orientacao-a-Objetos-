@@ -1,12 +1,18 @@
 package projeto_oo;
 
 public abstract class Pessoa {
-	private String nome;
-	private String cpf;
-	private String endereco;
+	protected String nome;
+	protected String cpf;
+	protected String endereco;
+	protected String telefone;
 	
-	public Pessoa(String nome, String cpf , String endereco) {
-		
+	
+	public String getTelefone() {
+		return telefone;
+	}
+
+	public void setTelefone(String telefone) {
+		this.telefone = telefone;
 	}
 
 	public String getNome() {

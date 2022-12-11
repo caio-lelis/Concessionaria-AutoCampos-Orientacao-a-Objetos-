@@ -1,7 +1,7 @@
 package projeto_oo;
 
 public class Concessionaria {
-	private String nome;
+	private String nomeLoja;
 	private String endereco;
 	private String cnpj;
 	private String telefone;
@@ -10,11 +10,11 @@ public class Concessionaria {
 		}
 
 	public String getNome() {
-		return nome;
+		return nomeLoja;
 	}
 
 	public void setNome(String nome) {
-		this.nome = nome;
+		this.nomeLoja = nome;
 	}
 
 	public String getEndereco() {
