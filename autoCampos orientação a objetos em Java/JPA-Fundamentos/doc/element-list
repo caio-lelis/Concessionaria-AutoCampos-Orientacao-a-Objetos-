@@ -1,0 +1,6 @@
+com.autocampos.jpa.models
+com.autocampos.jpa.services.impl
+com.autocampos.jpa.services.interfaces
+com.autocampos.jpa.ui
+com.autocampos.jpa.utils
+test
