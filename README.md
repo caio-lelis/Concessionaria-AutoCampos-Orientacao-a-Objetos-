@@ -1,1 +1,1 @@
-# Trabalho-Orienta-o-a-Objetos em Java ministrado pela professora Fabiana Mendes
+# Trabalho de Orientacão a-Objetos em Java ministrado pela professora Fabiana Mendes
