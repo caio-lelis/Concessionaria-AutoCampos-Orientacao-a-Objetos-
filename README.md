@@ -4,7 +4,7 @@ Instrutora: Professora Fabiana Mendes
 
 ## Descrição
 
-Este projeto foi desenvolvido como parte do curso de Orientação a Objetos ministrado pela Professora Fabiana Mendes. Fizemos uso de várias tecnologias, incluindo JPA, Mysql, Maven, e Java, para criar um sistema robusto e orientado a objetos.
+Este projeto foi desenvolvido como parte da disciplina  de Orientação a Objetos ministrado pela Professora Fabiana Mendes. Fizemos uso de várias tecnologias, incluindo JPA, Mysql, Maven, e Java, para criar um sistema robusto e orientado a objetos.
 
 ## Tecnologias Utilizadas
 
